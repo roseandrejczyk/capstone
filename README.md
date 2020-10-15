@@ -67,7 +67,7 @@
         Phone #: 860-576-4786 </center>
     </footer>
 	  <br>
-    <style>
+<style>
 .body{
   background-color:#3498db;
 }
