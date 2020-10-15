@@ -66,6 +66,7 @@
         Email: roseandrejczyk@gmail.com<br>
         Phone #: 860-576-4786 </center>
     </footer>
+	  <br>
     <style>
 .body{
   background-color:#3498db;
